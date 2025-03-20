@@ -76,7 +76,10 @@ Bienvenidos a mi perfil de GitHub, donde comparto mis proyectos y aprendizajes. 
 <p align="center">
   "¡Programar es arte con cafeína!" ☕
 </p>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/MarinNoSkill/MarinNoSkill/output/snake.svg" alt="Snake animation" />
 
 ---
+
 
 ¡Gracias por visitar mi perfil! Si te interesa, deja una ⭐ en mis repos o contáctame para colaborar.
