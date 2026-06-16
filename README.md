@@ -106,9 +106,9 @@ Web platform focused on fitness, wellness and user progress tracking.
 
 ## Tech Stack
 
-<!-- Paste the Stack Sphere code here -->
-
-<!-- https://github.com/dano796/github-stack-sphere -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,tailwind,python,cs,mysql,sqlite,git,github,vscode,idea,firebase" />
+</p>
 
 ---
 
