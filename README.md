@@ -106,9 +106,13 @@ Web platform focused on fitness, wellness and user progress tracking.
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,tailwind,python,cs,mysql,sqlite,git,github,vscode,idea,firebase" />
-</p>
+<div align="center">
+  <img
+    src="https://github-stack-sphere.vercel.app/stack.svg?icons=java,javascript,typescript,python,mysql,sqlite,react,nodejs,git,github,firebase,html5,css3"
+    width="500"
+    alt="My tech stack"
+  />
+</div>
 
 ---
 
