@@ -1,85 +1,159 @@
-# ¡Hola, soy MarinNoSkill! 👋
+# Hi, I'm Camilo Marin Muriel
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/LjzkdRsY6GOZxDdWHZ/giphy.gif?cid=6c09b952sjnu9uzoelk36z4h04nx1ncnd1p0os3tnrsyejzo&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Banner" /> <!-- Hamburguesa feliz animada (reemplaza con tu enlace de Imgur) -->
+  <img src="https://media2.giphy.com/media/LjzkdRsY6GOZxDdWHZ/giphy.gif?cid=6c09b952sjnu9uzoelk36z4h04nx1ncnd1p0os3tnrsyejzo&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Animated Burger" width="180"/>
 </div>
 
-Bienvenidos a mi perfil de GitHub, donde comparto mis proyectos y aprendizajes. ¡Conoce un poco sobre mí!
-
----
-
-## 🌟 Sobre mí  
-🔭 **Trabajando en:** App web con React (Vite) y Supabase: autenticación segura (registro, login, verificación de email, recuperación de contraseña), diseño limpio, animaciones (Framer Motion) y carga rápida.  
-
-🌱 **Aprendiendo:** Supabase (OAuth, políticas de BD), optimización en React (useMemo, lazy loading), seguridad (XSS/CSRF, JWT) y TypeScript.  
-
-👯 **Colaborar en:** Proyectos full stack (Java/Spring Boot, JS/Next.js), APIs RESTful, WebSockets o open source con SQL (PostgreSQL/MySQL).  
-
-🤔 **Ayuda con:** Autenticación segura en Supabase (sesiones, roles), optimización de React (re-renders, métricas) y auditoría de seguridad.  
-
-💬 **Pregúntame sobre:** React, Java, JS, Express, SQL, Git, deployment (Vercel/Netlify) o desarrollo web general.  
-
-📫 **Contacto:** Email: [camilo.marinmu@upb.edu.co] | LinkedIn: [linkedin.com/in/tu-perfil] | Discord: []  
-
-⚡ **Dato curioso:** Estudio Ingeniería en Sistemas, amo el full stack, videojuegos (RPG, simuladores), música (lo-fi, rock suave) y retos de código.  
-
-🎯 **Metas:** Publicar mi app, crear un portafolio minimalista, aprender TypeScript, contribuir a open source.  
-
-🛠️ **Motivación:** Transformar ideas en soluciones, resolver bugs y aprender de la comunidad.
-
----
-
-## 📊 Mis estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarinNoSkill&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="MarinNoSkill's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinNoSkill&theme=dracula&hide_border=true" alt="MarinNoSkill's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinNoSkill&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="MarinNoSkill's Top Languages" />
-</div>
-
-### 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
----
-
-## 🚀 Mis repositorios destacados
-<div align="center">
-  <a href="https://github.com/MarinNoSkill/notas-foro-final-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarinNoSkill&repo=notas-foro-final-main&theme=dracula&show_owner=true&token=YOUR_GITHUB_TOKEN" alt="Notas Foro Final" />
-  </a>
-</div>
-
----
-
-## 🎨 Personalización extra
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Programador animado" /> <!-- Programador animado (reemplaza con tu enlace de Imgur) -->
+  <strong>Software Developer • Systems Engineering Student • Problem Solver</strong>
 </p>
+
 <p align="center">
-  "¡Programar es arte con cafeína!" ☕
+  Building software solutions that solve real-world problems.
 </p>
-  <br><br>
+
+---
+
+## About Me
+
+I'm a Systems Engineering student at Universidad Pontificia Bolivariana with practical experience developing software solutions for real clients and personal projects.
+
+My interests include software engineering, system design, databases, business process automation, and building scalable applications that create value for organizations and users.
+
+I enjoy transforming ideas into functional products while continuously improving my technical and problem-solving skills.
+
+---
+
+## Current Focus
+
+* Software Engineering
+* Full Stack Development
+* Database Design
+* Business Process Automation
+* System Architecture
+* Continuous Learning
+
+---
+
+## Featured Projects
+
+### Hospitality Liquidation Management System
+
+Business platform developed for a company managing hospitality and reservation operations.
+
+**Repositories**
+
+* Frontend: https://github.com/MarinNoSkill/frontend-liquidacion
+* Backend: https://github.com/MarinNoSkill/backend-liquidacion
+
+**Highlights**
+
+* Financial workflow automation
+* Liquidation calculations
+* Administrative dashboards
+* Business reporting tools
+* Database-driven operations
+
+---
+
+### Clínica Smiley Management Platform
+
+Management system developed for a dental clinic.
+
+**Repository**
+
+* https://github.com/Emanuel0428/backend-clinicasmiley
+
+**Highlights**
+
+* Appointment scheduling
+* Patient management
+* Administrative operations
+* Authentication system
+* Clinical workflow support
+
+---
+
+### Nora Correa Dental Laboratory Website
+
+Corporate website developed for a dental laboratory.
+
+**Repository**
+
+* https://github.com/MarinNoSkill/Nora-Correa
+
+**Highlights**
+
+* Professional business website
+* Responsive design
+* User-focused experience
+* Modern digital presence
+
+---
+
+### Fitness Application
+
+Web platform focused on fitness, wellness and user progress tracking.
+
+**Highlights**
+
+* User-centered design
+* Data management
+* Modern web application architecture
+* Interactive user experience
+
+---
+
+## Tech Stack
+
+<!-- Paste the Stack Sphere code here -->
+
+<!-- https://github.com/dano796/github-stack-sphere -->
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarinNoSkill&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MarinNoSkill&theme=dracula&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinNoSkill&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:camilo.marinmu@upb.edu.co">
+  Email
+</a>
+•
+<a href="https://www.linkedin.com/in/camilo-marin-a45431417/">
+  LinkedIn
+</a>
+•
+<a href="https://github.com/MarinNoSkill">
+  GitHub
+</a>
+
+</p>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MarinNoSkill/MarinNoSkill/output/snake.svg" alt="Snake animation" />
+</div>
 
----
-
-
-¡Gracias por visitar mi perfil! Si te interesa, deja una ⭐ en mis repos o contáctame para colaborar.
+<p align="center">
+  Thanks for visiting my profile.
+</p>
